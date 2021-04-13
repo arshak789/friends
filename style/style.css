@@ -1,0 +1,58 @@
+*{
+	margin:0;
+	padding: 0;
+
+}
+#products{
+	background-color: #487eb0;
+	height: 150vh;
+	font-size: 0;
+	text-align: center;
+
+}
+#products  div{
+	font-size: 15px;
+	width: 250px;
+	height: 370px;
+	background-color:#353b48;
+	display: inline-block;
+	margin: 10px;
+	text-align: left;
+	color: #dcdde1;
+	padding: 10px;
+	vertical-align: middle;
+	border-radius: 1rem;
+
+}
+img{
+	width: 120px;
+	height: 120px;
+	border-radius: 1rem;
+}
+.daf,.daf1{
+	width: 50px;
+	height: 50px;
+	margin-top: 100px;
+	cursor: pointer;
+}
+
+.fad,.fad1{
+    margin-top: 30px;
+    width: 50px;
+	height: 50px;
+}
+.dat{
+	width: 50px;
+	height: 50px;
+	margin-top: 100px;
+}
+.dad{
+	 width: 50px;
+	height: 50px;
+	margin-top: 70px;
+}
+.dad1{
+	 width: 70px;
+	height: 70px;
+	margin-top: 73px;
+}
